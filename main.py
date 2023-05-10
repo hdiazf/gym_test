@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Título del sitio web
-st.title("Bienvenido al gimnasio")
+st.title("Bienvenido al gimnasio el Hoyo")
 
 # Menú lateral con opciones
 st.sidebar.header("¿Qué quieres hacer?")
